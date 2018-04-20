@@ -6,5 +6,4 @@
 
 # 注意事项
 - 本系统是业余爱好,不做科学研究使用.
-- 请访问本系统的网站: https://kongqi123.com/
-- 如有问题请联系: mengxiangyes@hotmail.com
+- 欢迎各位点star.
