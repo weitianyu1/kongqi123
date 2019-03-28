@@ -17,6 +17,9 @@ def run_www(port=5000):
 
 
 if __name__ == '__main__':
+    print("2")
+    print("3")
+
     from web.runhelp import main
 
     main(__file__, __name__)
